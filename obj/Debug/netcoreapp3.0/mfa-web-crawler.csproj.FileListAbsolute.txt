@@ -1,0 +1,11 @@
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.exe
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.deps.json
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.runtimeconfig.json
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.runtimeconfig.dev.json
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.dll
+C:\Users\alunoces\app\mfa-web-crawler\bin\Debug\netcoreapp3.0\mfa-web-crawler.pdb
+C:\Users\alunoces\app\mfa-web-crawler\obj\Debug\netcoreapp3.0\mfa-web-crawler.csprojAssemblyReference.cache
+C:\Users\alunoces\app\mfa-web-crawler\obj\Debug\netcoreapp3.0\mfa-web-crawler.AssemblyInfoInputs.cache
+C:\Users\alunoces\app\mfa-web-crawler\obj\Debug\netcoreapp3.0\mfa-web-crawler.AssemblyInfo.cs
+C:\Users\alunoces\app\mfa-web-crawler\obj\Debug\netcoreapp3.0\mfa-web-crawler.dll
+C:\Users\alunoces\app\mfa-web-crawler\obj\Debug\netcoreapp3.0\mfa-web-crawler.pdb

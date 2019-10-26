@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "mfa-web-crawler/1.0.0": {
+        "runtime": {
+          "mfa-web-crawler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mfa-web-crawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
